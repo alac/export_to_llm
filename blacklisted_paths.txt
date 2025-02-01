@@ -1,0 +1,9 @@
+node_modules
+.git
+build
+.idea
+dist
+data\audio
+data\chunk
+data\raw
+__pycache__
